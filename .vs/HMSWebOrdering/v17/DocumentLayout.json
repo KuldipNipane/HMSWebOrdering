@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\HMSWebOrdering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\terms-and-conditions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\terms-and-conditions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|G:\\HMSWebOrdering\\hmswebordering\\service.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\service.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\service-details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\service-details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\privacy-policy.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\privacy-policy.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\online-order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\online-order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|G:\\HMSWebOrdering\\hmswebordering\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\index-3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\index-3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\index-2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\index-2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\food-collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\food-collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\faq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\faq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\contact-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\contact-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\chefs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\chefs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|G:\\HMSWebOrdering\\hmswebordering\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\book-a-table.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\book-a-table.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|G:\\HMSWebOrdering\\hmswebordering\\blog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\blog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\blog-details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\blog-details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|g:\\hmswebordering\\hmswebordering\\404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CDF194B-381E-42FB-BCAA-2F6AF2FFE21E}|HMSWebOrdering\\HMSWebOrdering.csproj|solutionrelative:hmswebordering\\404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "terms-and-conditions.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\terms-and-conditions.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\terms-and-conditions.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\terms-and-conditions.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\terms-and-conditions.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:20:11.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "service-details.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\service-details.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\service-details.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\service-details.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\service-details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:19:27.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "privacy-policy.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\privacy-policy.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\privacy-policy.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\privacy-policy.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\privacy-policy.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:19:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "online-order.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\online-order.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\online-order.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\online-order.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\online-order.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:18:44.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index-3.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\index-3.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\index-3.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\index-3.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\index-3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:17:18.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index-2.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\index-2.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\index-2.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\index-2.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\index-2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:16:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "food-collection.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\food-collection.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\food-collection.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\food-collection.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\food-collection.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:14:28.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "faq.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\faq.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\faq.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\faq.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\faq.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T06:14:07.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "contact-us.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\contact-us.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\contact-us.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\contact-us.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\contact-us.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T05:57:07.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "service.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\service.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\service.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\service.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\service.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T13:59:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "chefs.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\chefs.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\chefs.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\chefs.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\chefs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T05:56:30.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "checkout.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\checkout.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\checkout.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\checkout.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T05:56:12.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cart.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\cart.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\cart.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\cart.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T05:55:32.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "book-a-table.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\book-a-table.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\book-a-table.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\book-a-table.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\book-a-table.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T05:54:51.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\index.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\index.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\index.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T13:47:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "blog-details.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\blog-details.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\blog-details.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\blog-details.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\blog-details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T05:54:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "404.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\404.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\404.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\404.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\404.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T05:52:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "blog.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\blog.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\blog.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\blog.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\blog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T14:00:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "categories.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\categories.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\categories.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\categories.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\categories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T13:58:27.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "about.aspx",
+              "DocumentMoniker": "G:\\HMSWebOrdering\\HMSWebOrdering\\about.aspx",
+              "RelativeDocumentMoniker": "HMSWebOrdering\\about.aspx",
+              "ToolTip": "G:\\HMSWebOrdering\\HMSWebOrdering\\about.aspx",
+              "RelativeToolTip": "HMSWebOrdering\\about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T13:56:34.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

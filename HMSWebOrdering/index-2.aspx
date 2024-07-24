@@ -46,7 +46,7 @@
         <div class="navbar-area fixed-top">
             <!-- Menu For Mobile Device -->
             <div class="mobile-nav">
-                <a href="index.html" class="logo">
+                <a href="index.aspx" class="logo">
                     <img src="assets/img/logo-two.png" alt="Logo">
                 </a>
             </div>
@@ -55,7 +55,7 @@
             <div class="main-nav main-nav-two">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="index.aspx">
                             <img class="nav-two-logo-one" src="assets/img/logo-two.png" alt="Logo">
                             <img class="nav-two-logo-two" src="assets/img/logo.png" alt="Logo">
                         </a>
@@ -65,30 +65,30 @@
                                     <a href="#" class="nav-link dropdown-toggle active">Home <i class='bx bx-chevron-down'></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="index.html" class="nav-link">Home Page One</a>
+                                            <a href="index.aspx" class="nav-link">Home Page One</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-2.html" class="nav-link active">Home Page Two</a>
+                                            <a href="index-2.aspx" class="nav-link active">Home Page Two</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-3.html" class="nav-link">Home Page Three</a>
+                                            <a href="index-3.aspx" class="nav-link">Home Page Three</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="about.html" class="nav-link">About</a>
+                                    <a href="about.aspx" class="nav-link">About</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="categories.html" class="nav-link">Categories</a>
+                                    <a href="categories.aspx" class="nav-link">Categories</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link dropdown-toggle">Service <i class='bx bx-chevron-down'></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="service.html" class="nav-link">Service</a>
+                                            <a href="service.aspx" class="nav-link">Service</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="service-details.html" class="nav-link">Service Details</a>
+                                            <a href="service-details.aspx" class="nav-link">Service Details</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -96,10 +96,10 @@
                                     <a href="#" class="nav-link dropdown-toggle">Blog <i class='bx bx-chevron-down'></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="blog.html" class="nav-link">Blog</a>
+                                            <a href="blog.aspx" class="nav-link">Blog</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="blog-details.html" class="nav-link">Blog Details</a>
+                                            <a href="blog-details.aspx" class="nav-link">Blog Details</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -107,46 +107,46 @@
                                     <a href="#" class="nav-link dropdown-toggle">Pages <i class='bx bx-chevron-down'></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="food-collection.html" class="nav-link">Food Collection</a>
+                                            <a href="food-collection.aspx" class="nav-link">Food Collection</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="online-order.html" class="nav-link">Online Order</a>
+                                            <a href="online-order.aspx" class="nav-link">Online Order</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="chefs.html" class="nav-link">Chefs</a>
+                                            <a href="chefs.aspx" class="nav-link">Chefs</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="book-a-table.html" class="nav-link">Book A Table</a>
+                                            <a href="book-a-table.aspx" class="nav-link">Book A Table</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="cart.html" class="nav-link">Cart</a>
+                                            <a href="cart.aspx" class="nav-link">Cart</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="checkout.html" class="nav-link">Checkout</a>
+                                            <a href="checkout.aspx" class="nav-link">Checkout</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="coming-soon.html" class="nav-link">Coming Soon</a>
+                                            <a href="coming-soon.aspx" class="nav-link">Coming Soon</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="faq.html" class="nav-link">FAQ</a>
+                                            <a href="faq.aspx" class="nav-link">FAQ</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+                                            <a href="terms-and-conditions.aspx" class="nav-link">Terms and Conditions</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+                                            <a href="privacy-policy.aspx" class="nav-link">Privacy Policy</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="404.html" class="nav-link">404</a>
+                                            <a href="404.aspx" class="nav-link">404</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact-us.html" class="nav-link">Contact Us</a>
+                                    <a href="contact-us.aspx" class="nav-link">Contact Us</a>
                                 </li>
                             </ul>
                             <div class="side-nav">
-                                <a class="nav-cart" href="cart.html">
+                                <a class="nav-cart" href="cart.aspx">
                                     <i class='bx bxs-cart'></i>
                                     <span>1</span>
                                 </a>
@@ -251,8 +251,8 @@
                     <h1>Free Home Delivery Within an Hour</h1>
                     <p>A restaurant or an eatery, is a business that prepares and serves food and drinks to customers. Meals are generally served and eaten on the premises, but many.</p>
                     <div class="banner-btn-wrap">
-                        <a class="cmn-btn" href="online-order.html">Order Now</a>
-                        <a class="banner-btn-two" href="contact-us.html">Get Free Call</a>
+                        <a class="cmn-btn" href="online-order.aspx">Order Now</a>
+                        <a class="banner-btn-two" href="contact-us.aspx">Get Free Call</a>
                     </div>
                 </div>
                 <div class="banner-img">
@@ -326,7 +326,7 @@
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                 <p>Restaurants range from inexpensive and informal lunching or dining places catering to people working nearby.</p>
                             </div>
-                            <a class="cmn-btn" href="service-details.html">Know More</a>
+                            <a class="cmn-btn" href="service-details.aspx">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -344,7 +344,7 @@
                 </div>
                 <div class="service-slider owl-theme owl-carousel">
                     <div class="service-item">
-                        <a href="service-details.html">
+                        <a href="service-details.aspx">
                             <img src="assets/img/home-one/service1.png" alt="Service">
                             <img class="service-shape" src="assets/img/home-one/service-shape.png" alt="Service">
                             <h3>Fresh Healthy Food</h3>
@@ -352,7 +352,7 @@
                         </a>
                     </div>
                     <div class="service-item">
-                        <a href="service-details.html">
+                        <a href="service-details.aspx">
                             <img src="assets/img/home-one/service2.png" alt="Service">
                             <img class="service-shape" src="assets/img/home-one/service-shape.png" alt="Service">
                             <h3>Free Fast Home Delivery</h3>
@@ -360,7 +360,7 @@
                         </a>
                     </div>
                     <div class="service-item">
-                        <a href="service-details.html">
+                        <a href="service-details.aspx">
                             <img src="assets/img/home-one/service3.png" alt="Service">
                             <img class="service-shape" src="assets/img/home-one/service-shape.png" alt="Service">
                             <h3>Discount Voucher</h3>
@@ -368,7 +368,7 @@
                         </a>
                     </div>
                     <div class="service-item">
-                        <a href="service-details.html">
+                        <a href="service-details.aspx">
                             <img src="assets/img/home-one/service3.png" alt="Service">
                             <img class="service-shape" src="assets/img/home-one/service-shape.png" alt="Service">
                             <h3>Discount Voucher</h3>
@@ -420,7 +420,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -465,7 +465,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -510,7 +510,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -555,7 +555,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -600,7 +600,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -645,7 +645,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -690,7 +690,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -735,7 +735,7 @@
                                     </li>
                                 </ul>
                                 <div class="add-cart">
-                                    <a href="cart.html">
+                                    <a href="cart.aspx">
                                         <i class='bx bxs-cart'></i>
                                         Add to Cart
                                     </a>
@@ -760,7 +760,7 @@
                     </div>
                 </div>
                 <div class="more-collection">
-                    <a href="food-collection.html">View More Colletction</a>
+                    <a href="food-collection.aspx">View More Colletction</a>
                 </div>
             </div>
         </section>
@@ -826,7 +826,7 @@
                                 <h2>Join As a Delivery Man</h2>
                                 <p>Restaurants range from inexpensive and informal lunching or dining places catering to people working nearby, with modest food served in simple settings at low prices.</p>
                             </div>
-                            <a class="cmn-btn" href="contact-us.html">Apply Now</a>
+                            <a class="cmn-btn" href="contact-us.aspx">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -1052,57 +1052,57 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="blog-item">
                             <div class="blog-top">
-                                <a href="blog-details.html">
+                                <a href="blog-details.aspx">
                                     <img src="assets/img/home-one/blog1.jpg" alt="Blog">
                                 </a>
                                 <span>01 May 2024</span>
                             </div>
                             <div class="blog-bottom">
                                 <h3>
-                                    <a href="blog-details.html">Brief About How to Make Pasta</a>
+                                    <a href="blog-details.aspx">Brief About How to Make Pasta</a>
                                 </h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
-                                <a class="cmn-btn" href="blog-details.html">Read More</a>
+                                <a class="cmn-btn" href="blog-details.aspx">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-4">
                         <div class="blog-item">
                             <div class="blog-top">
-                                <a href="blog-details.html">
+                                <a href="blog-details.aspx">
                                     <img src="assets/img/home-one/blog2.jpg" alt="Blog">
                                 </a>
                                 <span>02 May 2024</span>
                             </div>
                             <div class="blog-bottom">
                                 <h3>
-                                    <a href="blog-details.html">Brief About How to Make Pizza</a>
+                                    <a href="blog-details.aspx">Brief About How to Make Pizza</a>
                                 </h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
-                                <a class="cmn-btn" href="blog-details.html">Read More</a>
+                                <a class="cmn-btn" href="blog-details.aspx">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6   col-lg-4">
                         <div class="blog-item">
                             <div class="blog-top">
-                                <a href="blog-details.html">
+                                <a href="blog-details.aspx">
                                     <img src="assets/img/home-one/blog3.jpg" alt="Blog">
                                 </a>
                                 <span>03 May 2024</span>
                             </div>
                             <div class="blog-bottom">
                                 <h3>
-                                    <a href="blog-details.html">Brief About How to Make Burger</a>
+                                    <a href="blog-details.aspx">Brief About How to Make Burger</a>
                                 </h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
-                                <a class="cmn-btn" href="blog-details.html">Read More</a>
+                                <a class="cmn-btn" href="blog-details.aspx">Read More</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="text-center">
-                    <a class="read-blog-btn" href="blog.html">Read More Blogs</a>
+                    <a class="read-blog-btn" href="blog.aspx">Read More Blogs</a>
                 </div>
             </div>
         </section>
@@ -1115,7 +1115,7 @@
                     <div class="col-sm-6 col-lg-3">
                         <div class="footer-item">
                             <div class="footer-logo">
-                                <a href="index.html">
+                                <a href="index.aspx">
                                     <img src="assets/img/logo-two.png" alt="Logo">
                                 </a>
                                 <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -1134,31 +1134,31 @@
                                 <h3>Services</h3>
                                 <ul>
                                     <li>
-                                        <a href="contact-us.html">
+                                        <a href="contact-us.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Support
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="about.html">
+                                        <a href="about.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Career
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="chefs.html">
+                                        <a href="chefs.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Chefs
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="service.html">
+                                        <a href="service.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Testimonials
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="privacy-policy.html">
+                                        <a href="privacy-policy.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Privacy & Policy
                                         </a>
@@ -1173,31 +1173,31 @@
                                 <h3>Quick Links</h3>
                                 <ul>
                                     <li>
-                                        <a href="service.html">
+                                        <a href="service.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Services
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="food-collection.html">
+                                        <a href="food-collection.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Food Collection
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="online-order.html">
+                                        <a href="online-order.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Online Order
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="blog.html">
+                                        <a href="blog.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Blog
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact-us.html">
+                                        <a href="contact-us.aspx">
                                             <i class='bx bx-chevron-right'></i>
                                             Contact
                                         </a>
