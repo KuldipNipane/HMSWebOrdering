@@ -29,7 +29,7 @@
 
         <title>Restant - Takeway & Restaurant Cafe HTML Template</title>
 
-        <link rel="icon" type="image/png" href="assets/img/favicon.png">
+        <link rel="icon" type="image/png" href="assets/img/faviconHMS.png">
     </head>
     <body>
         <!-- Preloader -->
@@ -47,7 +47,7 @@
             <!-- Menu For Mobile Device -->
             <div class="mobile-nav">
                 <a href="index.aspx" class="logo">
-                    <img src="assets/img/logo-two.png" alt="Logo">
+                    <img class="HMSmedia" src="assets/img/LogoHMS.png" alt="Logo">
                 </a>
             </div>
 
@@ -56,14 +56,14 @@
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
                         <a class="navbar-brand" href="index.aspx">
-                            <img src="assets/img/logo.png" class="logo-one" alt="Logo">
-                            <img src="assets/img/logo-two.png" class="logo-two" alt="Logo">
+                            <img src="assets/img/LogoHMS.png" class="logo-one" alt="Logo" style="height: 36px;">
+                            <img src="assets/img/LogoHMS.png" class="logo-two" alt="Logo">
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link dropdown-toggle active">Home <i class='bx bx-chevron-down'></i></a>
-                                    <ul class="dropdown-menu">
+                                    <a href="#" class="nav-link dropdown-toggle active">Home </a>
+                                    <%--<ul class="dropdown-menu">
                                         <li class="nav-item">
                                             <a href="index.aspx" class="nav-link active">Home Page One</a>
                                         </li>
@@ -74,7 +74,7 @@
                                             <a href="index-3.aspx" class="nav-link">Home Page Three</a>
                                         </li>
 
-                                    </ul>
+                                    </ul>--%>
                                 </li>
                                 <li class="nav-item">
                                     <a href="about.aspx" class="nav-link">About</a>
@@ -82,7 +82,7 @@
                                 <li class="nav-item">
                                     <a href="categories.aspx" class="nav-link">Categories</a>
                                 </li>
-                                <li class="nav-item">
+                               <%-- <li class="nav-item">
                                     <a href="#" class="nav-link dropdown-toggle">Service <i class='bx bx-chevron-down'></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
@@ -92,8 +92,8 @@
                                             <a href="service-details.aspx" class="nav-link">Service Details</a>
                                         </li>
                                     </ul>
-                                </li>
-                                <li class="nav-item">
+                                </li>--%>
+                           <%--     <li class="nav-item">
                                     <a href="#" class="nav-link dropdown-toggle">Blog <i class='bx bx-chevron-down'></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
@@ -104,8 +104,8 @@
                                             <a href="blog-details.aspx" class="nav-link">Blog Details</a>
                                         </li>
                                     </ul>
-                                </li>
-                                <li class="nav-item">
+                                </li>--%>
+                                <%--<li class="nav-item">
                                     <a href="#" class="nav-link dropdown-toggle">Pages <i class='bx bx-chevron-down'></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
@@ -142,7 +142,7 @@
                                             <a href="404.aspx" class="nav-link">404</a>
                                         </li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li class="nav-item">
                                     <a href="contact-us.aspx" class="nav-link">Contact Us</a>
                                 </li>
@@ -1147,8 +1147,8 @@
                         <div class="footer-item">
                             <div class="footer-logo">
                                 <a href="index.aspx">
-                                    <img src="assets/img/logo.png" class="footer-logo1" alt="Logo">
-                                    <img src="assets/img/logo-two.png" class="footer-logo2" alt="Logo">
+                                    <img src="assets/img/HMSnew.png" class="footer-logo1" alt="Logo">
+                                    <img src="assets/img/HMSnew.png" class="footer-logo2" alt="Logo">
                                 </a>
                                 <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                 <div class="social-link">
