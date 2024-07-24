@@ -97,6 +97,7 @@
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
                                             <a href="blog.aspx" class="nav-link">Blog</a>
+
                                         </li>
                                         <li class="nav-item">
                                             <a href="blog-details.aspx" class="nav-link">Blog Details</a>
